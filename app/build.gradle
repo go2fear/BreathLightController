@@ -1,0 +1,5 @@
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.github.cepr:android-serialport-api:1.0.2'
+    // Add other dependencies here
+}
