@@ -5,6 +5,8 @@ plugins {
 android {
     compileSdk 33
 
+    namespace 'com.example.breathlightcontroller'
+
     defaultConfig {
         applicationId "com.example.breathlightcontroller"
         minSdk 21
